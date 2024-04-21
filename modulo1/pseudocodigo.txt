@@ -1,9 +1,9 @@
 Pseudocódigo:
 
 1- Início
-2- Leia o valor de n; #Entrada
-3- digito_1 = n - 1; #Processamento
-4- digito_2 = 10 - n; #Processamento
-5- Imprima digito_1; #Saída    //obs:sem quebra de linha//
-6- Imprima digito_2; #Saída 
+2- Leia o valor de n;
+3- digito_1 = n - 1; 
+4- digito_2 = 10 - n; 
+5- R = (digito_1 * 10) + digito_2; 
+6- Imprima R;
 7- Fim

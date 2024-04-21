@@ -3,4 +3,5 @@ Solução Dissertativa:
 Leia e armazene o número que será multiplicado pelo 9, no caso o n. #Entrada
 Armazene em uma variável a operação de subtração de n - 1, chamado digito_1. #Processamento
 Armazene em uma variável a operação de 10 - n, chamado digito_2. #Processamento
-Imprima em sequência o digito_1 e logo após o digito_2. #Saída
+Realizar a operação (digito_1 * 10) + digito_2
+Imprima em sequência o digito_1 e logo após o digito_2 e encerre. #Saída
