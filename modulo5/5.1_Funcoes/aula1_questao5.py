@@ -7,4 +7,4 @@ print(emoji.emojize(':thinking_face:'))
 print(emoji.emojize(':partying_face:'))
 
 frase = input("Digite uma frase e ela será emojizada: ")
-print(emoji.emojize(frase))
+print(emoji.emojize(frase)) 
