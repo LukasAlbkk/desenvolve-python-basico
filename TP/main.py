@@ -1,8 +1,3 @@
-## sistema de um supermercado, em que possui um sistema de adicao de produtos e usuarios que se 
-## divide em funcionarios e gerentes ,que possuem maiores permissoes, como adicionar produtos e removê-los.
-## Os funcionarios poderao acessar esses produtos, de forma ordenada e poderao altera-los tambem.
-
-
 import csv
 
 ## Produtos e servicos
